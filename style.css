@@ -1,0 +1,27 @@
+/* .submit-button{
+    margin: 0 0 0 -7px;
+    background-color: blue;
+    border-radius: 10px;
+    padding: 2em 30em 2em 3em;
+    border: 0;
+
+}
+/* #button-parent {
+    background-color: lightblue;
+    padding: 1em;
+    margin: 1em;
+    display: flex;
+} */
+/* .submit-button: { 
+
+} */ */
+
+form > button > img {
+    height: 1em;
+    width: 1em;
+}
+#submit {
+    border: none;
+    min-width: 150px;
+    text-align: left;
+}
